@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SparkFoundation</string>
+    <string name="facebook_app_id">626529991377248</string>
+    <string name="fb_login_protocol_scheme">fb626529991377248</string>
+
+</resources>
